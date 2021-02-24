@@ -8,18 +8,20 @@ the steps to run my project.
 
 2) Open browser and go to this link, http://localhost/phpmyadmin/index.php
 
-3) Open this folder via VScode.
+3) Import supplycart_task.sql into myphpadmin. 
 
-4) Make sure your device can open MINGW64 terminal. Go to my folder 
+4) Open this folder via VScode.
+
+5) Make sure your device can open MINGW64 terminal. Go to my folder 
 	
 	cd **\Supplycart_Task
 
-5)Type in
+6)Type in
 	php artisan serve.
 
-6)If everything is success, open browser and go to this link. http://127.0.0.1:8000
+7)If everything is success, open browser and go to this link. http://127.0.0.1:8000
 
-7)Thats all, Thank you.
+8)Thats all, Thank you.
 
 
 
